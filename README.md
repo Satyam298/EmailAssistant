@@ -2,8 +2,6 @@
 
 Natural-language AI agent for Gmail. Read, search, summarize, and send emails through a simple chat interface.
 
-(Note: Access requires prior authorization. Contact the owner from your email to request it. The app may take 1–2 minutes to start.)
-
 ### Features
 - Summarize recent or unread emails
 - Search by keyword, sender, or topic
